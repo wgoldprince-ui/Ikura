@@ -1,0 +1,7 @@
+{
+  "name": "Ikura Sushi Premium",
+  "description": "A luxury Japanese restaurant website with an AI-powered sushi animator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
